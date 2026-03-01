@@ -4,9 +4,7 @@
 Soy desarrollador full-stack y apasionado por **Angular, Node.js y tecnologías de IA**. Me encanta crear proyectos **dinámicos, 3D y gamificados**, así como soluciones escalables con **Docker y PostgreSQL**.
 
 ---
-![Sección](https://placehold.co/800x50/ff5733/ffffff?text=Proyectos+Destacados)
-![Sección](https://placehold.co/800x50/1e90ff/ffffff?text=Habilidades+Claves)
-![Sección](https://placehold.co/800x50/28a745/ffffff?text=Progreso+Gamificado)
+
 
 ## 🛠 Tecnologías y Skills
 
