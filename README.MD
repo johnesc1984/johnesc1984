@@ -1,6 +1,9 @@
 # 👋 Hola, soy John Castiblanco
 
-![Banner](https://placehold.co/1200x200?text=Perfil+Profesional)
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
+  <rect width="200" height="50" fill="#ff5733"/>
+  <text x="100" y="30" font-size="20" fill="white" text-anchor="middle">Perfil+Profesional</text>
+</svg>
 
 Soy desarrollador full-stack y apasionado por **Angular, Node.js y tecnologías de IA**. Me encanta crear proyectos **dinámicos, 3D y gamificados**, así como soluciones escalables con **Docker y PostgreSQL**.
 
