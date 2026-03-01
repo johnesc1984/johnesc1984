@@ -59,3 +59,4 @@ Soy desarrollador full-stack y apasionado por **Angular, Node.js y tecnologías 
 
 ---
 ![Banner](https://placehold.co/1200x200?text=Siempre+aprendiendo,+siempre+construyendo+cosas+increíbles)
+![Banner](https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo-500x313.png)
