@@ -5,17 +5,6 @@ Soy desarrollador full-stack y apasionado por **Angular, Node.js y tecnologías 
 
 ---
 
-### 📂 Proyectos
-
-**API XP**  
-Stack: Node.js, PostgreSQL  
-Estado: Activo  
-
----
-
-**Juego 3D**  
-Stack: Ionic, Three.js  
-Estado: En desarrollo
 
 ## 🛠 Tecnologías y Skills
 
