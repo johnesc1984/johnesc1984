@@ -41,6 +41,7 @@ Soy desarrollador full-stack y apasionado por **Angular, Node.js y tecnologías 
 | 🖥 Dashboard de APIs | Angular 17, Node.js, PostgreSQL | [Repo](https://github.com/johncastiblanco/dashboard-api) |
 | 📦 Microservicios Docker | Node.js, Docker, PostgreSQL | [Repo](https://github.com/johncastiblanco/microservicios) |
 | [![npm version](https://img.shields.io/npm/v/stress-http-tester.svg)](https://www.npmjs.com/package/stress-http-tester) stress-http-tester | Node.js, JavaScript | [Repo](https://github.com/johnesc1984/stress-http-tester)|
+|[![npm downloads](https://img.shields.io/npm/dm/stress-http-tester.svg)](https://www.npmjs.com/package/stress-http-tester)||
 ---
 
 ## 📫 Contacto
