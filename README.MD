@@ -25,13 +25,7 @@ Soy desarrollador full-stack y apasionado por **Angular, Node.js y tecnologías 
 
 ---
 
-<!-- ## 🏆 Badge dinámico de progreso
 
-![Progreso](https://tu-api.com/badge?user=johncastiblanco)
-
-*(Este badge se actualizará según tu progreso o XP en proyectos gamificados)*
-
---- -->
 
 ## 📂 Proyectos Destacados
 
