@@ -37,7 +37,6 @@ Soy desarrollador full-stack y apasionado por **Angular, Node.js y tecnologías 
 | [![npm version](https://img.shields.io/npm/v/stress-http-tester.svg)](https://www.npmjs.com/package/stress-http-tester) stress-http-tester | Node.js, JavaScript | [Repo](https://github.com/johnesc1984/stress-http-tester)|
 | [![npm version](https://img.shields.io/npm/v/libpostgresbridge.svg)](https://www.npmjs.com/package/libpostgresbridge) libpostgresbridge | Node.js, JavaScript | [Repo](https://github.com/johnesc1984/libpostgresbridge)|
 | [![npm version](https://img.shields.io/npm/v/node-struct-validator.svg)](https://www.npmjs.com/package/node-struct-validator) node-struct-validator | Node.js, JavaScript | [Repo](https://github.com/johnesc1984/node-struct-validator)|
-
 |📦 TutorialesJavascript|Pagina Web|[www](https://tutorialesjavascript.com/home)|
 ---
 
