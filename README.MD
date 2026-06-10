@@ -1,4 +1,4 @@
-# 👋 Hola, soy John Castiblanco
+# Hola, soy John Castiblanco
 ![Banner](https://placehold.co/1200x200?text=Perfil+Profesional)
 
 Soy desarrollador full-stack y apasionado por **Angular, Node.js y tecnologías de IA**. Me encanta crear proyectos **dinámicos, 3D y gamificados**, así como soluciones escalables con **Docker y PostgreSQL**.
